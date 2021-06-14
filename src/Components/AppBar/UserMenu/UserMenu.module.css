@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+  margin-right: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.button {
+  width: 100px;
+  max-height: 30px;
+}

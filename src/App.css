@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+.loader {
+  padding-top: 100px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #3f51b5;
+}

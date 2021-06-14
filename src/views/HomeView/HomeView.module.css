@@ -1,0 +1,17 @@
+/* .div {
+  background-image: linear-gradient(
+      rgba(47, 48, 58, 0.4),
+      rgba(47, 48, 58, 0.4)
+    ),
+    url(../../images/backgroud.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+} */
+
+.h1 {
+  padding-top: 150px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #3f51b5;
+}

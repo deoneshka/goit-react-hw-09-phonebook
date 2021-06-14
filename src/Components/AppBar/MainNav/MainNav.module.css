@@ -1,0 +1,23 @@
+.link {
+  text-decoration: none;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+}
+
+.link_active {
+  border-bottom-style: solid;
+  border-bottom-color: #fff;
+  border-radius: 40%;
+}
+
+.link:not(:last-child) {
+  margin-right: 20px;
+}
+
+.nav {
+  display: flex;
+}

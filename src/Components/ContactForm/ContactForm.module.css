@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.field {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.167;
+  letter-spacing: 0.01em;
+  margin-right: 10px;
+}
+
+.input {
+  width: 300px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.button {
+  width: 200px;
+}
